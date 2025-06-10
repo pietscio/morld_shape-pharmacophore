@@ -1,8 +1,8 @@
 # morld_shape-pharmacophore
-This repository contains the source code of the five different docking implementations of MORLD (QuickVina2, AutoDockGPU, PLANTS, GOLD and GLide) along with a novel implemenation of MORLD using shape similarity and pharmacophore alignment insted of docking. 
+This repository contains the source code for five MORLD docking implementations (QuickVina 2, AutoDock-GPU, PLANTS, GOLD, and GLIDE) as well as a novel MORLD-based method that uses shape similarity and pharmacophore alignment in place of molecular docking.
 ## Usage
-The instructions to reproduce the data obtained in the paper are here presented. 
-This is also serving as a tutorial on how to use the different implementations of MORLD.
+Below are the instructions for reproducing the results reported in the paper "Retrospective benchmarking and novel shape-pharmacophore based implementation of the MORLD method for the autonomous optimization of 3-aroyl-1,4-diarylpyrroles (ARDAP)".
+They also provide a tutorial on using the various MORLD implementations, including the new method.
 1. **Install MORLD**  
    Follow the official instructions on the [MORLD GitHub page](https://github.com/wsjeon92/morld).
 
