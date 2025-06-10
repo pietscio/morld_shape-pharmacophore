@@ -12,12 +12,12 @@ This is also serving as a tutorial on how to use the different implementations o
    cp implementations/optimize_BE_{implementation}.py /path/to/MORLD_installation_folder/mol_dqn/chemgraph/
 
 3. **Copy the data files**  
-   Copy the contents of the corresponding data subfolder into chemgraph/::
+   Copy the contents of the corresponding data subfolder into chemgraph/:
    ```bash
    cp -r data/{implementation}/* /path/to/MORLD_installation_folder/mol_dqn/chemgraph/
 
 4. **Edit the optimization script**  
-   Open optimize_BE_{implementation}.py in your editor. Locate the block marked::
+   Open optimize_BE_{implementation}.py in your editor. Locate the blocks marked:
    ```python
    EDIT THE FOLLOWING LINES
    ```
