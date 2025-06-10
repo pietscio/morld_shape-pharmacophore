@@ -1,0 +1,5 @@
+FORCEFIELD   OPLS_2005
+GRIDFILE   /media/arthur/Disco_2/phd_pietro/tubulin_morld_paul_erlich/files_for_glide/6xet/glide-grid_6xet_WAT/glide-grid_6xet_WAT.zip
+LIGANDFILE   ligand.maegz
+POSE_OUTTYPE   ligandlib
+PRECISION   SP

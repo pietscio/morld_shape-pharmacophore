@@ -1,0 +1,11 @@
+receptor = 5NPP_prep_MORLD.pdbqt
+ligand = ligand.pdbqt
+
+#binding_pocket
+center_x = 4.46
+center_y = 29.18
+center_z = -2.7
+
+size_x = 24
+size_y = 24
+size_z = 24
